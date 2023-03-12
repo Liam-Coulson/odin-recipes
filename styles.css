@@ -1,3 +1,7 @@
+body {
+    font-family: Arial, Verdana, sans-serif;
+}
+
 .recipe {
     font-size: 24px;
     background-color: #de2c41;
